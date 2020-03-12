@@ -2,6 +2,8 @@
 #define __APDS9250_H
 
 #include "stdint.h"
+#swveerina
+#milekiric
 
 #define _APDS9250_I2C_ADDR_READ     0xA5 /* i2c read  address */
 #define _APDS9250_I2C_ADDR_WRITE    0xA4 /* i2c write address */
